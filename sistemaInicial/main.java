@@ -13,5 +13,8 @@ public class main {
         member1.showInfo();
         member2.showInfo();
         member3.showInfo();
+        member4.showInfo();
+        member5.showInfo();
     }
+
 }
